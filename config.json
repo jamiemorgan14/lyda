@@ -1,0 +1,164 @@
+{
+  "business": {
+    "name": "Lyda Lawn Care & Landscaping LLC",
+    "tagline": "Professional lawn care and landscaping services since 1994",
+    "phone": "(208) 870-4947",
+    "email": "Lydalawncareandlandscape@gmail.com",
+    "address": "Serving the Treasure Valley since 1994",
+    "googleReviewsUrl": "https://g.page/r/YOUR_GOOGLE_BUSINESS_ID/review",
+    "facebookUrl": "https://www.facebook.com/people/Lyda-Lawn-Care-Landscaping/100068102824990/"
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "label": "Reviews",
+      "href": "/reviews"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "hero": {
+    "title": "Your Lawn, Our Passion",
+    "subtitle": "Over 30 Years of Excellence in the Treasure Valley",
+    "description": "From routine maintenance to complete landscape transformations, we treat every yard like our own.",
+    "cta": "Get a Free Quote"
+  },
+  "whyChooseUs": [
+    {
+      "title": "30+ Years in Business",
+      "description": "Three decades of keeping Treasure Valley lawns beautiful",
+      "icon": "calendar"
+    },
+    {
+      "title": "Licensed & Insured",
+      "description": "Fully covered for residential and commercial work",
+      "icon": "shield"
+    },
+    {
+      "title": "Free Estimates",
+      "description": "Get pricing before you commit",
+      "icon": "clipboard"
+    },
+    {
+      "title": "Local Family Business",
+      "description": "Your neighbors, not a franchise",
+      "icon": "star"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jamie",
+      "location": "Boise, ID",
+      "text": "Share a glowing review from a happy customer here! What did they love about your service?",
+      "rating": 5,
+      "image": "/assets/testimonials/placeholder1.jpg"
+    },
+    {
+      "name": "Another Happy Customer",
+      "location": "Meridian, ID",
+      "text": "Add another testimonial highlighting a different service or benefit. Real reviews build trust!",
+      "rating": 5,
+      "image": "/assets/testimonials/placeholder2.jpg"
+    },
+    {
+      "name": "Third Customer Name",
+      "location": "Nampa, ID",
+      "text": "One more review to show potential customers why they should choose Lyda Lawn Care!",
+      "rating": 5,
+      "image": "/assets/testimonials/placeholder3.jpg"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How quickly can you start service?",
+      "answer": "We typically schedule new customers within 3-5 business days. For urgent requests, call us directly at (208) 870-4947!"
+    },
+    {
+      "question": "Do you offer one-time services or just ongoing contracts?",
+      "answer": "Both! Whether you need a one-time cleanup or weekly maintenance, we're flexible to meet your needs."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We proudly serve Boise, Meridian, Nampa, Caldwell, and surrounding areas in the Treasure Valley."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes! We carry full liability insurance and all necessary licenses for your protection and peace of mind."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept cash, check, and all major credit cards for your convenience."
+    }
+  ],
+  "services": [
+    {
+      "name": "Lawn Maintenance",
+      "description": "Regular mowing, edging, and trimming to keep your lawn looking its best year-round"
+    },
+    {
+      "name": "Landscape Design",
+      "description": "Custom landscape design and installation tailored to your property and vision"
+    },
+    {
+      "name": "Fertilization & Weed Control",
+      "description": "Professional treatment programs to promote healthy, green lawns"
+    },
+    {
+      "name": "Spring & Fall Cleanup",
+      "description": "Seasonal cleanup services including leaf removal, debris clearing, and bed preparation"
+    },
+    {
+      "name": "Mulching & Edging",
+      "description": "Fresh mulch installation and professional edging for clean, defined landscape beds"
+    },
+    {
+      "name": "Irrigation Services",
+      "description": "Sprinkler system installation, maintenance, and repairs to keep your landscape hydrated"
+    }
+  ],
+  "serviceAreas": [
+    "Boise",
+    "Meridian",
+    "Nampa",
+    "Caldwell"
+  ],
+  "gallery": [
+    {
+      "src": "/assets/gallery/1.jpg",
+      "alt": "Professional lawn maintenance"
+    },
+    {
+      "src": "/assets/gallery/2.jpg",
+      "alt": "Landscape design installation"
+    },
+    {
+      "src": "/assets/gallery/3.jpg",
+      "alt": "Garden bed with fresh mulch"
+    },
+    {
+      "src": "/assets/gallery/4.jpg",
+      "alt": "Residential lawn care"
+    },
+    {
+      "src": "/assets/gallery/5.jpg",
+      "alt": "Commercial landscaping project"
+    },
+    {
+      "src": "/assets/gallery/6.jpg",
+      "alt": "Seasonal cleanup service"
+    }
+  ]
+}

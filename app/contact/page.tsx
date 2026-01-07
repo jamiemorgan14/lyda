@@ -123,21 +123,6 @@ export default function Contact() {
         </div>
       </section>
 
-      {/* Map Placeholder Section */}
-      <section className="py-12 px-6 bg-gray-50">
-        <div className="max-w-7xl mx-auto">
-          <div className="bg-gray-200 rounded-lg h-96 flex items-center justify-center">
-            <div className="text-center p-8">
-              <svg className="w-16 h-16 mx-auto mb-4 text-gray-400" fill="currentColor" viewBox="0 0 24 24">
-                <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
-              </svg>
-              <p className="text-gray-600">Google Maps integration coming soon</p>
-              <p className="text-sm text-gray-500 mt-2">Serving {config.serviceAreas.join(", ")} and surrounding areas</p>
-            </div>
-          </div>
-        </div>
-      </section>
-
       <Footer />
     </main>
   );

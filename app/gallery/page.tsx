@@ -67,10 +67,10 @@ export default function Gallery() {
       <section className="py-20 px-6 bg-brand-dark text-white">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">
-            Want Your Lawn to Look This Good?
+            Get a Free Quote
           </h2>
           <p className="text-xl mb-8 text-gray-300">
-            Let's discuss how we can transform your outdoor space.
+            Contact us to discuss your lawn care needs.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Link

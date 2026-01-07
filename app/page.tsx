@@ -9,8 +9,16 @@ export default function Home() {
       <Header />
 
       {/* Hero Section */}
-      <section className="bg-gradient-to-br from-brand-dark to-brand-gray text-white py-20 px-6">
-        <div className="max-w-7xl mx-auto text-center">
+      <section className="relative bg-brand-dark text-white py-20 px-6">
+        {/* Background Image with Overlay */}
+        <div
+          className="absolute inset-0 bg-cover bg-center"
+          style={{ backgroundImage: 'url(/assets/gallery/476817412_949048607352121_9138088087659786554_n.jpg)' }}
+        />
+        <div className="absolute inset-0 bg-black/60" />
+
+        {/* Content */}
+        <div className="relative max-w-7xl mx-auto text-center">
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-4">
             {config.hero.title}
           </h1>
@@ -27,7 +35,7 @@ export default function Home() {
               href={`tel:${config.business.phone.replace(/\D/g, "")}`}
               className="inline-block bg-white hover:bg-gray-100 text-brand-dark font-bold py-4 px-8 rounded-lg text-lg transition-colors"
             >
-              Call {config.business.phone}
+              Call Now
             </a>
           </div>
         </div>
